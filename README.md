@@ -6,5 +6,5 @@ Ce dépôt contient la deuxième partie des blocs-notes Jupyter du cours "Python
 
 ### Partie 2
 
-- Séance n°7 : Introduction à l'intelligence avec Python
+- Séance n°7 : [Introduction à l'intelligence avec Python](./seance_07.ipynb)
 - 
