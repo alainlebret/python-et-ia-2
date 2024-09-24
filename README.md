@@ -6,5 +6,5 @@ Ce dépôt contient la deuxième partie des blocs-notes Jupyter du cours "Python
 
 ### Partie 2
 
-- Séance n°7 : [Introduction à l'intelligence avec Python](./seance_07.ipynb)
-- 
+- Séance n°7 : [Introduction à l'intelligence artificielle avec Python](./seance_07.ipynb)
+- Séance n°8 : Optimisation et algorithme de la descente de gradient
