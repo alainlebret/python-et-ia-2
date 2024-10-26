@@ -10,6 +10,7 @@ Ce dépôt contient la deuxième partie des blocs-notes Jupyter du cours "Python
 - Séance n°8 : Optimisation et algorithme de la descente de gradient.
 - Séance n°9 : Apprentissage supervisé et introduction à la classification.
 
+Voici le lien vers la [partie 1](https://github.com/alainlebret/python-et-ia-1)
 
 ## Licence
 
