@@ -6,9 +6,10 @@ Ce dépôt contient la deuxième partie des blocs-notes Jupyter du cours "Python
 
 ### Partie 2
 
-- Séance n°7 : [Introduction à l'intelligence artificielle avec Python](./seance_07.ipynb).
-- Séance n°8 : [Introduction à la descente de gradient](./seance_08.ipynb)
-- Séance n°9 : [Apprentissage supervisé et introduction à la classification](./seance_09.ipynb)
+- Séance n°7 : [Apprentissage supervisé et régression](./seance_07.ipynb)
+- Séance n°8 : [Optimisation et descente de gradient](./seance_08.ipynb)
+- Séance n°9 : [Apprentissage supervisé et classification](./seance_09.ipynb)
+- Séance n°10 : [Apprentissage par renforcement](./seance_10.ipynb)
 
 Voici le lien vers la [partie 1](https://github.com/alainlebret/python-et-ia-1)
 
