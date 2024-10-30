@@ -10,6 +10,7 @@ Ce dépôt contient la deuxième partie des blocs-notes Jupyter du cours "Python
 - Séance n°8 : [Optimisation et descente de gradient](./seance_08.ipynb)
 - Séance n°9 : [Apprentissage supervisé et classification](./seance_09.ipynb)
 - Séance n°10 : [Apprentissage par renforcement](./seance_10.ipynb)
+- Séance n°11 : [Perceptron multicouches](./seance_11.ipynb)
 
 Voici le lien vers la [partie 1](https://github.com/alainlebret/python-et-ia-1)
 
