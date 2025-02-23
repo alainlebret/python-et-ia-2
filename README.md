@@ -43,7 +43,7 @@ This repository contains the second part of the Jupyter notebooks for the course
   3. [Homemade multilayer perceptron (part 2)](seance_11c.ipynb)
 
 For part 1 of the course, please visit the following repository:  
-[Part 1 Repository](https://github.com/alainlebret/python-et-ia-1)
+[part 1 repository](https://github.com/alainlebret/python-et-ia-1)
 
 ### License
 
