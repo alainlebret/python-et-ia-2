@@ -42,8 +42,7 @@ This repository contains the second part of the Jupyter notebooks for the course
   2. [A few words on backpropagation](seance_11b.ipynb)  
   3. [Homemade multilayer perceptron (part 2)](seance_11c.ipynb)
 
-For part 1 of the course, please visit the following repository:  
-[part 1 repository](https://github.com/alainlebret/python-et-ia-1)
+For part 1 of the course, please visit the following repository: [python-et-ia-1](https://github.com/alainlebret/python-et-ia-1)
 
 ### License
 
